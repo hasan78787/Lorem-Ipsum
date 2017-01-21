@@ -1,0 +1,88 @@
+.top_wrapper {
+width:100%;
+height:auto;
+}
+
+.top_bar {
+margin:0 auto;
+width:960px;
+}
+
+.top_logo {
+
+}
+
+.text {
+
+}
+.social_icon {
+width:50%;
+
+}
+
+.social_icon ul {
+list-style:none;
+}
+.social_icon ul li {
+display-lnline:block;
+}
+
+.social_icon ul li a{
+
+}
+
+
+
+
+
+.body_wrapper {
+width:100%;
+height:auto;
+}
+
+.body {
+margin:0 auto;
+width:960px;
+}
+
+
+
+
+.welcome_wrapper {
+width:100%;
+height:auto;
+}
+
+.welcome {
+margin:0 auto;
+width:960px;
+}
+
+
+
+
+
+.footer_wrapper {
+width:100%;
+height:auto;
+}
+
+.footer {
+margin:0 auto;
+width:960px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
